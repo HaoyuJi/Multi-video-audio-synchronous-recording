@@ -1,0 +1,14 @@
+{
+    "video_num": 4,
+    "save_root": "D:/VIDEO",
+    "focus_values": [
+        30,
+        30,
+        30,
+        30
+    ],
+    "display_size": [
+        480,
+        270
+    ]
+}
